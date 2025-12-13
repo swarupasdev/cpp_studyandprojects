@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-# cpp-foundation
-cpp total dominance
-=======
-# cpp_studyandprojects
-All about c++
->>>>>>> 3c60f495b311e7f1aaf053da71d9da5739ba1c91
+### Everyone seeing the Project1 it is mainly focused on learning and understanding 
+* [Project1: Console Application](https://github.com/swarupasdev/cpp_studyandprojects/tree/main/Project1)
